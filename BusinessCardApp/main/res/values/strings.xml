@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="name_surname">Amirul Azhar</string>
+    <string name="business">Mobile Developer</string>
+    <string name="phone_number">01124700158</string>
+    <string name="email_text">amirul8000@gmail.com</string>
+    <string name="share_text">amirul8000@gmail.com</string>
+</resources>
